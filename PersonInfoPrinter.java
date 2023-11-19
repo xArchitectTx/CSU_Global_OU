@@ -1,10 +1,10 @@
 public class PersonInfoPrinter {
     public static void main(String[] args) {
-        String firstName = "John";
-        String lastName = "Doe";
-        String streetAddress = "123 Maple Street";
-        String city = "Anytown";
-        String zipCode = "12345";
+        String firstName = "Oskar";
+        String lastName = "The Grouch";
+        String streetAddress = "123 Sesame Street";
+        String city = "Manhattan, New York";
+        String zipCode = "10016";
 
         System.out.println(firstName);
         System.out.println(lastName);
